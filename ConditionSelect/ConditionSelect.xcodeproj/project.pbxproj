@@ -354,6 +354,7 @@
 				DCEB916C1CE16C980053ED21 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
